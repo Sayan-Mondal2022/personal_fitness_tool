@@ -1,0 +1,5 @@
+# All the Packages and Dependencies
+.venv
+
+# Holds all the API keys
+.env
